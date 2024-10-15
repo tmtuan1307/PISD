@@ -2,10 +2,12 @@
 Perceptual and Position-aware Important Distance for Time Series
 
 The process to calculate PISD between two time series Q and C. We detect PIPs, followed by extracting PISs and PCSs for Q and C. Then, we compute SubDist between each PIS and its PCS, where SQ$i$ is PSubDist(QPIS$_i$,CPCS$_i$) and SC$i$ is PSubDist(CPIS$_i$,QPCS$_i$). Finally, we use those PSubDist to calculate the PISD of Q and C
-![alt text](https://github.com/tmtuan1307/pisd/img/pisd3.jpg?raw=true)
+
+![alt text](https://github.com/tmtuan1307/PISD/blob/main/img/pisd3.jpg)
 
 This chart compares the average rank and prediction time for a single time series of all the tested methods. It is clear that our PISD is the first method to be both quicker and more accurate than DTWCV, the most common variant of DTW.
-![alt text](https://github.com/tmtuan1307/pisd/img/tvsr2.jpg?raw=true)
+
+![alt text](https://github.com/tmtuan1307/PISD/blob/main/img/tvsr2.jpg)?raw=true)
 
 
 # Dataset
