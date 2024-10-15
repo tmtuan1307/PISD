@@ -1,5 +1,7 @@
-# Code
-Perceptual and Position-aware Important Distance for Time Series
+# The source code for "PISD: A linear complexity distance beats dynamic time warping on time series classification and clustering" accepted by Engineering Applications of Artificial Intelligence Journal (IF 7.5).
+
+
+# Method
 
 The process to calculate PISD between two time series Q and C. We detect PIPs, followed by extracting PISs and PCSs for Q and C. Then, we compute SubDist between each PIS and its PCS, where SQi is PSubDist(QPIS_i,CPCS_i) and SCi is PSubDist(CPIS_i,QPCS_i). Finally, we use those PSubDist to calculate the PISD of Q and C
 
