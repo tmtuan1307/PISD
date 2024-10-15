@@ -37,36 +37,44 @@ pip install scikit-learn
 You can run the command: 
 
 Original Version PISD:
-
+```
 python original_pisd/pisd.py --dataset_pos 2
-
 python original_pisd/pisd_f.py --dataset_pos 2
+```
 
 or
 
+```
 python original_pisd/pisd.py --dataset_name ArrowHead
-
 python original_pisd/pisd_f.py --dataset_name ArrowHead
+```
+
 
 Speed Up Version PISD:
 
+```
 python speedup_pisd/pisd.py --dataset_pos 2
-
 python speedup_pisd/pisd_f.py --dataset_pos 2
+```
 
 or
 
+```
 python speedup_pisd/pisd.py --dataset_name ArrowHead
-
 python speedup_pisd/pisd_f.py --dataset_name ArrowHead
+```
 
 k-PISA:
 
+```
 python k_pisa/k_pisa.py --dataset_pos 2
+```
 
 or
 
+```
 python k_pisa/k_pisa.py --dataset_name ArrowHead
+```
 
 # Classification Result
 You can see the full results on 112 UCR datasets in `results/`
