@@ -9,7 +9,7 @@ The process to calculate PISD between two time series Q and C. We detect PIPs, f
 
 This chart compares the average rank and prediction time for a single time series of all the tested methods. It is clear that our PISD is the first method to be both quicker and more accurate than DTWCV, the most common variant of DTW.
 
-![alt text](https://github.com/tmtuan1307/PISD/blob/main/img/tvsr2.jpg)?raw=true)
+![alt text](https://github.com/tmtuan1307/PISD/blob/main/img/tvsr2.jpg)
 
 
 # Dataset
