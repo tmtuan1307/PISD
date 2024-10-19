@@ -1,5 +1,9 @@
 # The source code for "PISD: A linear complexity distance beats dynamic time warping on time series classification and clustering" accepted by Engineering Applications of Artificial Intelligence Journal (IF 7.5).
 
+# Paper
+
+[PISD: A linear complexity distance beats dynamic time warping on time series classification and clustering.](https://doi.org/10.1016/j.engappai.2024.109222)
+
 
 # Method
 
