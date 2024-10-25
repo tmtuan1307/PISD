@@ -38,7 +38,7 @@ pip install scipy
 
 pip install scikit-learn
 
-# Usage: 
+# Usage: (Please note that, for demonstrating the results, the code also includes the hyperparameter tuning phase, so it will take longer than usual. We will update the code without the tuning phase in the near future.)
 
 You can run the command: 
 
